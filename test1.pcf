@@ -7,3 +7,4 @@ set_io LED5 C4
 set_io LED6 B3
 set_io LED7 C3
 set_io crystal_clk J3
+set_io TESTPIN R16
